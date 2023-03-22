@@ -59,7 +59,7 @@
 .header-transparent .navbar-brand {
   font-size: 23px;
   font-weight: 600;
-  color: #fff;
+  color: #070707;
   text-transform: uppercase;
   letter-spacing: 1px;
   margin: 0;
@@ -72,7 +72,7 @@
 }
 
 .fixed-header.header-transparent {
-  background: #fff;
+  background: #070707;
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
 }
 
@@ -115,7 +115,7 @@
 
 @media (max-width: 991px) {
   .header-transparent {
-    background: #fff;
+    background: #070707;
   }
 
   .header-transparent .navbar-brand {
@@ -294,7 +294,7 @@
 }
 
 .header-transparent-01 .social-icons li a {
-  color: #fff;
+  color: #070707;
   font-size: 14px;
 }
 
@@ -343,11 +343,11 @@
 
 @media (max-width: 991px) {
   .header-transparent-01 {
-    background: #fff;
+    background: #070707;
   }
 
   .header-transparent-01 .navbar-brand {
-    color: #444;
+    color: #eece44;
     padding: 20px 15px 20px 0px;
   }
 

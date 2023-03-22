@@ -106,7 +106,7 @@ Table of contents
   background-color: #eece44;
   display: none;
   z-index: 10000;
-  border-radius: 3px;
+  border-radius: 8px;
   right: 20px;
   transition: all 0.5s;
 }
@@ -2061,7 +2061,7 @@ h6 {
   text-transform: uppercase;
   font-weight: 500;
   display: inline-block;
-  border-radius: 0;
+  border-radius: 8px;
   text-align: center;
   border: 1px solid;
   cursor: pointer;
