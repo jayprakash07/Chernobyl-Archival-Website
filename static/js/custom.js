@@ -226,14 +226,14 @@
     $('.portfolio-content').magnificPopup({
       delegate: '.lightbox-gallery',
       type: 'image',
-      tLoading: '#%curr%',
+      tLoading: 'Loading image #%curr%...',
       mainClass: 'mfp-fade',
       fixedContentPos: true,
       closeBtnInside: true,
       gallery: {
         enabled: true,
         navigateByImgClick: true,
-        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+        preload: [1, 3] // Will preload 1 - before current, and 3 after the current image
       }
     });
   }
