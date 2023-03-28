@@ -15,7 +15,7 @@
   }
   /*--------------------
      * Back to Top
- ----------------------*/
+  ----------------------*/
   GUPPY.BackToTop = function () {
     $(window).on('scroll', function () {
       if ($(this).scrollTop() > 100) {
@@ -145,7 +145,7 @@
       resizable: false,
       itemSelector: '.portfolio-item',
       layoutMode: 'masonry',
-      filter: '*'
+      filter: '.Images'
     });
     //Filtering items on portfolio.html
     var portfolioFilter = $('.filter li');
@@ -233,7 +233,7 @@
       gallery: {
         enabled: true,
         navigateByImgClick: true,
-        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+        preload: [0, 5] // Will preload 0 - before current, and 1 after the current image
       }
     });
   }
