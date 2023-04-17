@@ -37,6 +37,6 @@ When adding images or audio files, provide descriptive alt text or captions for 
 We expect all contributors to abide by our code of conduct. Read the Code of Conduct before contributing to our project.
 
 # Getting Help
-If you have any questions or need help, create an issue in the repository or contact the project maintainers.
+If you have any questions or need help, create an issue in the repository or contact @jayprakash07.
 
 Thank you for your interest in contributing to our project!
