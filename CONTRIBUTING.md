@@ -1,4 +1,4 @@
-# Contributing to "Exploring the History of the Chernobyl Disaster through a Digital Lens"
+# Contributing to "Remembering Chernobyl: A Digital Exploration of the Tragedy"
 
 Welcome! We are excited to have you contribute to our project. Here are some guidelines to help you get started.
 
