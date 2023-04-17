@@ -1,4 +1,6 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
+
+As contributors and maintainers of the "Remembering Chernobyl: A Digital Exploration of the Tragedy" project, we are committed to creating a welcoming and inclusive environment for everyone. We value the participation of all individuals regardless of their background, culture, race, ethnicity, gender identity and expression, sexual orientation, disability, religion, age, or any other personal characteristic.
 
 ## Our Pledge
 
