@@ -5,7 +5,7 @@ Welcome! We are excited to have you contribute to our project. Here are some gui
 ## Getting Started
 Before contributing, make sure you have:
 
-A Github account
+A Github account:
 A basic understanding of Git and Github
 Familiarity with HTML, CSS, and image manipulation software (e.g., Photoshop, GIMP, etc.)
 If you are new to Git and Github, check out Github's Getting Started guide and Git's Documentation.
