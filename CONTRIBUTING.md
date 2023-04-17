@@ -7,8 +7,9 @@ Before contributing, make sure you have:
 
 A Github account:
  - A basic understanding of Git and Github
- - Familiarity with HTML, CSS, and image manipulation software (e.g.,     Photoshop, GIMP, etc.)
+ - Familiarity with HTML, CSS, and Javascript.
  - If you are new to Git and Github, check out Github's Getting Started guide and Git's Documentation.
+ - Access to reputable sources for historical information related to the Chernobyl disaster.
 
 ### How to Contribute
 To contribute to the project, follow these steps:
@@ -43,10 +44,11 @@ Here are some guidelines to follow when contributing to the project:
  - Use comments in your code to explain what your code does, and why you made certain decisions.
  - Make sure your code follows good coding practices, such as using descriptive variable names, following a consistent code style, and avoiding redundant or unnecessary code.
  - Use images and audio files that are in the public domain or licensed under a Creative Commons license that allows for commercial and derivative use.
+ - When adding historical information or quotes, use reputable sources such as academic journals, books, and documentaries. Be sure to include links to your sources in your PR request.
  - When adding images or audio files, provide descriptive alt text or captions for accessibility.
 
 # Code of Conduct
-We expect all contributors to abide by our code of conduct. Read the Code of Conduct before contributing to our project.
+We expect all contributors to abide by our code of conduct. Read the [Code of Conduct](Chernobyl-Archival-Website/CODE_OF_CONDUCT.md) before contributing to our project.
 
 # Getting Help
 If you have any questions or need help, create an issue in the repository or contact [@jayprakash07](https://github.com/jayprakash07).
