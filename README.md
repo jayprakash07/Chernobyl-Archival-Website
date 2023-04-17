@@ -4,4 +4,4 @@ This project aims to explore the history of the Chernobyl disaster through a dig
 
 Our goal is to provide a comprehensive and interactive digital experience that allows users to learn about the Chernobyl disaster and its impact on the people, environment, and society in the region. We are committed to using reputable sources for all information and content added to the project.
 
-We welcome contributions from anyone who is interested in this topic and values creating a respectful and inclusive community. Please refer to our [code of conduct](Chernobyl-Archival-Website/CODE_OF_CONDUCT.md) for guidelines on expected behavior within our project community and the [contributing guide](Chernobyl-Archival-Website/CONTRIBUTING.md).
+We welcome contributions from anyone who is interested in this topic and values creating a respectful and inclusive community. Please refer to our [Code Of Conduct](./CODE_OF_CONDUCT.md) for guidelines on expected behavior within our project community and the [Contributing Guide](./CONTRIBUTING.md).
