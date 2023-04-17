@@ -1,7 +1,7 @@
-# Chernobyl
+# Remembering Chernobyl: A Digital Exploration of the Tragedy
 
-Website created to store archival footage of the Chernobyl Disaster.
+This project aims to explore the history of the Chernobyl disaster through a digital lens, incorporating website creation, image manipulation, and digital archives. The website will feature a timeline of significant events, archival photos, and audio recordings of interviews with local residents who lived in the region at the time of the disaster.
 
-DH100 Final Project.
+Our goal is to provide a comprehensive and interactive digital experience that allows users to learn about the Chernobyl disaster and its impact on the people, environment, and society in the region. We are committed to using reputable sources for all information and content added to the project.
 
-Jayprakash Pathak
+We welcome contributions from anyone who is interested in this topic and values creating a respectful and inclusive community. Please refer to our [code of conduct](Chernobyl-Archival-Website/CODE_OF_CONDUCT.md) for guidelines on expected behavior within our project community and the [contributing guide](Chernobyl-Archival-Website/CONTRIBUTING.md).
