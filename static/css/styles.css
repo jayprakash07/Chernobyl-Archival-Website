@@ -2535,6 +2535,11 @@ a.m-btn-icon:active {
   color: #fff;
 }
 
+.social-icons-01 a.github {
+  background-color: #0f0e0e;
+  color: #eece44;
+}
+
 .social-icons-01 a.behance {
   background-color: #1769ff;
   color: #fff;
