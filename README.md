@@ -9,4 +9,4 @@ Our goal is to provide a comprehensive and interactive digital experience that a
 
 We welcome contributions from anyone who is interested in this topic and values creating a respectful and inclusive community. Please refer to our [Code Of Conduct](./CODE_OF_CONDUCT.md) for guidelines on expected behavior within our project community and the [Contributing Guide](./CONTRIBUTING.md).
 
-Copyright © 2023 Jayprakash Pathak. All rights reserved.
+Copyright © 2023 Jayprakash Pathak.
